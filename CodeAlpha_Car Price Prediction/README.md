@@ -7,7 +7,7 @@ The objective of this task is to build a **Machine Learning model that predicts 
 
 ## 📌 Task
 
-**Task 3: Car Price Prediction using Machine Learning**
+**Task: Car Price Prediction using Machine Learning**
 
 The goal of this project is to analyze car data and develop a model that can predict the **selling price of a car** using different input features.
 
@@ -43,11 +43,10 @@ The goal of this project is to analyze car data and develop a model that can pre
 ```
 Car-Price-Prediction
 │
-├── car_price_prediction.ipynb
+├── car_price.py
 ├── dataset.csv
 ├── README.md
-└── images
-    └── task3_output.png
+└── task_outputimage
 ```
 
 ---
